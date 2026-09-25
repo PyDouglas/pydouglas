@@ -4,7 +4,7 @@
 
 
 
-![Detalhes](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=flaviocost&theme=zenburn)
+![Detalhes](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PyDouglas&theme=zenburn)
 
 
 #### Studying in this moment:
